@@ -1,0 +1,17 @@
+body {
+    background: black;
+}
+form {
+    width: 30%;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    margin: 5px;
+    padding: 6px 9px;
+    border: none;
+    border-bottom: 1px solid greenyellow;
+    background: transparent;
+    color: greenyellow;
+}

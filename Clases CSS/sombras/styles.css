@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.box {
+  width: 300px;
+  background: #e2e2e2;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 0 0 40px 0px #0007;
+  padding: 20px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: #444;
+  text-align: center;
+}
+
+h2 {
+  text-shadow: 0 0 12px #f88;
+}
+p {
+  list-style: none;
+  text-align: center;
+  line-height: 1.4;
+  font-size: 14px;
+  text-shadow: 0 0 5px #f88;
+}
+img {
+  width: 180px;
+  border-radius: 100%;
+  box-shadow: 0 0 10px 1px #0007;
+}
